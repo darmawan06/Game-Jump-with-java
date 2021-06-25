@@ -1,0 +1,2 @@
+*Folder build tidak boleh di hapus karena ada assert penting untuk game
+*File mysql-connector-java-5.1.6-bin di hapus karena email melarang untuk mengirim file tersebut
